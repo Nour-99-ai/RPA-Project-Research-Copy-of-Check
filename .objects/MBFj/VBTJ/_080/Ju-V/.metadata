@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check Number",
+  "Type": "Element",
+  "Id": "Ju-VhJER-kWWLTC21C19-A",
+  "Reference": "xNat_fmFrEyrloEZdgJjxA/Ju-VhJER-kWWLTC21C19-A",
+  "ParentRef": "xNat_fmFrEyrloEZdgJjxA/_080quHCL0Cy6Co0oLsVFQ",
+  "Created": "2024-11-24T14:04:00.0841628Z",
+  "Updated": "2024-11-24T14:04:00.0841628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

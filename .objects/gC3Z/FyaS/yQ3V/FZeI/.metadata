@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Submit Check Copy",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "FZeIvk--fEmmqjhJoK2vzA",
+  "Reference": "xNat_fmFrEyrloEZdgJjxA/FZeIvk--fEmmqjhJoK2vzA",
+  "ParentRef": "xNat_fmFrEyrloEZdgJjxA/yQ3V1qNyhEOhgBUG3x-ZHg",
+  "Created": "2024-11-25T06:22:40.4365767Z",
+  "Updated": "2024-11-25T06:22:40.4365767Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

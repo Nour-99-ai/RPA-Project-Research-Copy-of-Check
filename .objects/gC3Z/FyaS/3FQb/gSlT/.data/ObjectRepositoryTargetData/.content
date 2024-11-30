@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zAwMZpZQykSKxsA0Dt5Oyg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="be6b1d4a-bca4-4e56-81f3-6af7bf6fd990" DesignTimeRectangle="344, 439, 606, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='checkNumber' tag='INPUT' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl id='checkNumber' tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="2fcbf2cb-4afc-41ca-b171-ab504d2b276c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="be6b1d4a-bca4-4e56-81f3-6af7bf6fd990" DesignTimeRectangle="344, 408, 124, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzyAccuracy="0.93" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Check Number' check:innerText='Check Number' /&gt;" Guid="9ec31fd6-7c6c-4984-bf70-49dd97d808b9" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e03e4de7127a38a384dbec1c5c54a4e8.png" xmlns="">08ZpjwhoLjUOXTB3tNMD21Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

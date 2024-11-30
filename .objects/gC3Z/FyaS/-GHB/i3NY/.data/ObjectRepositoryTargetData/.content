@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="49hIgK-TI0WiFobpAsLEbg" Reference="xNat_fmFrEyrloEZdgJjxA/i3NYxT45REC6RVvNQBDmHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/161/Check-Request-For-20753680.pdf" DesignTimeRectangle="1602, 106, 46, 41" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Check-Request-For-*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' /&gt;" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;ctrl name='Check-Request-For-*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' automationid='' /&gt;" Guid="af7a28ab-881b-4014-8346-2e27c7162341" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Check-Request-For-20753680.pdf - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8868019a6be91d09e76c826541dfa8c9.png" xmlns="">0fckbGefvJkiXVXJozemwJg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W54ZAkkEjkO5PNYBClqQcw" Reference="xNat_fmFrEyrloEZdgJjxA/Ju-VhJER-kWWLTC21C19-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="cebda247-c073-4439-9459-1462097b8a68" DesignTimeRectangle="27, 371, 843, 24" DesignTimeScaleFactor="1.25" ElementType="ListItem" FullSelectorArgument="[string.Format(&quot;&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='-' role='list item' virtualname='{0}' /&gt;&quot;, out_Result)]" Guid="7ca47312-6196-4bdc-9828-6c007c30a5c2" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchCheckCopy' aastate='moveable, focusable' title='ACME System3' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cebda247-c073-4439-9459-1462097b8a68" DesignTimeRectangle="27, 341, 218, 30" FullSelectorArgument="&lt;wnd ctrlname='listView1' /&gt;&lt;wnd aaname='Header Control' cls='SysHeader32' /&gt;&lt;ctrl automationid='Header' /&gt;&lt;ctrl automationid='HeaderItem 0' /&gt;" FuzzyAccuracy="0.92" Guid="8e217a8c-da1a-4682-9081-6e54c6752195" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9609e692beb2cbd8064dc1aa4bb95225.png" xmlns="">08tcCbfVU5U-m1mJTDUMrjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="- No search results  " Name="out_Result" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

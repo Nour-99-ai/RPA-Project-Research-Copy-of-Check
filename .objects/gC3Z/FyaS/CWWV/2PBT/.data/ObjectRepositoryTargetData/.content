@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5L-6PN9JBkOxwsbZURurog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="44c9a954-06f3-4b8e-828c-e502895491a8" DesignTimeRectangle="344, 462, 606, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='workitemID' tag='INPUT' /&gt;" FuzzyAccuracy="0.91" FuzzySelectorArgument="&lt;webctrl id='workitemID' tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="3a931770-0832-4b58-90e5-fc17a8cf526e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Client Check' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="44c9a954-06f3-4b8e-828c-e502895491a8" CvTextArea="342, 434, 153, 16" CvTextArgument="Client Request ID:" CvType="Text" DesignTimeRectangle="344, 431, 151, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Client Request ID:' check:innerText='Client Request ID:' /&gt;" Guid="036f8492-baa4-4850-951a-3a70550e2c05" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="22305cb65019dbc2b66604c3f59c9f22.png" xmlns="">0q8l5_LD6zk-8J33zUx9jAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
